@@ -6,8 +6,8 @@ language. This is my first attempt at making a menu bar application. The goal of
 this app is to quickly allow users to check the weather from the OS X
 menu bar, provided by _[Forecast.io](https://forecast.io)_.
 
-Thank you, [@brimelow](/brimelow) for your [tutorial](http://www.swiftvideotuto
-rials.com/creating-menubar-apps-osx) on creating menubar apps in Swift for OS X!
+Thank you, [@brimelow](https://github.com/brimelow) for your [tutorial](http://www.swiftvideotutorials.com/creating-menubar-apps-osx)
+on creating menubar apps in Swift for OS X!
 
 ## App permissions
 The application requires Location Services to be turned on. This is to determine
@@ -21,10 +21,8 @@ register on [their website](https://developer.forecast.io). They allow 1K free
 API calls per day.
 
 ##### Project Dependencies:   
-- [CoreLocation](https://developer.apple.com/library/mac/documentation/
-  CoreLocation/Reference/CoreLocation_Framework/index.html#//apple_ref/
-  doc/uid/TP40007123)
-- [ForecastIO](/sxg/ForecastIO)
+- [CoreLocation](https://developer.apple.com/library/mac/documentation/CoreLocation/Reference/CoreLocation_Framework/index.html#//apple_ref/doc/uid/TP40007123)
+- [ForecastIO](https://github.com/sxg/ForecastIO)
 
 ##### Development Dependencies
 - [Xcode](https://developer.apple.com/xcode/)
